@@ -1,0 +1,1 @@
+Create a table  'shouts' with fields id , user, message , time  fields id is primary key  and auto increment. While inserting username is 'root' with no password '' etc
